@@ -1,0 +1,9 @@
+$("#cuffs").click(function(){
+    $("#cuffs").fadeOut();
+});
+$("#box").click(function(){
+    $("#box").slideToggle();
+});
+$("#jacket").click(function(){
+    $("#jacket").hide();
+});
